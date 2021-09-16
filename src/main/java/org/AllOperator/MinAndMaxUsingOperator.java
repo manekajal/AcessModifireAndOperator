@@ -21,9 +21,9 @@ public class MinAndMaxUsingOperator {
         int result1 = a + b*+c;
         int result2 = c + a / b;
         int result3 = a % b + c;
-        System.out.println("res1 :" +result11);
+        System.out.println("res1 :" +result1);
         System.out.println("res1 :" +result2);
-        System.out.println("res1 :" +result33);
+        System.out.println("res1 :" +result3);
         if(result1>result2 && result1 > result3)
         {
 
