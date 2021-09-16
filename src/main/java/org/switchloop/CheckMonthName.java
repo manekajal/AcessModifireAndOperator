@@ -8,10 +8,10 @@ public class CheckMonthName {
     {
         Scanner reader = new Scanner(System.in);
 
-        int n;
+        int num;
         System.out.print("\nMonth No: ");
-        n = reader.nextInt();
-        switch(n)
+        num = reader.nextInt();
+        switch(num)
         {
             case 1:
                 System.out.print("\nJanuary");
